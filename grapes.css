@@ -7,7 +7,7 @@
 
 .light-berrys {
     transform: scale(1.5);
-    transform: translate(12em,12em)
+    transform: translate(1px,1px);
  
 }
 
@@ -16,7 +16,7 @@
 /*  -----------------------------------------  */
 
 .light-berrys_grape-1 {
-    transform: rotate(-5deg)
+    transform: rotate();
 }
 
 /*  -----------------------------------------  */
