@@ -6,14 +6,18 @@
 /* ########################################### */
 
 .light-berrys {
-    transform: scale(1.2);
+    transform: scale(1.5);
+    transform: translate(12em,12em)
+ 
 }
 
 /*  _________________________________________  */
 /* |               GRAPE BUNDLE 1            | */
 /*  -----------------------------------------  */
 
-
+.light-berrys_grape-1 {
+    transform: rotate(-5deg)
+}
 
 /*  -----------------------------------------  */
                                                                                     /*  berry 1  */
